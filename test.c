@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main(){
+int main(){
   printf("Hey this is Zaeem, from FYCS");
   printf('this is a test repo')
+  return 0;
   }
